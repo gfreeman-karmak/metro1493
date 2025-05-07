@@ -11,7 +11,7 @@ const defaultConfig = getDefaultConfig(__dirname);
 
 const config = {
     resolver: {
-        unstable_enablePackageExports: false
+        unstable_enablePackageExports: true
     }
 };
 
